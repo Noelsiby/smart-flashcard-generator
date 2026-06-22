@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+pymongo
+motor
+bcrypt
+passlib[bcrypt]
+python-jose[cryptography]
+python-dotenv
+python-multipart
+email-validator
+pydantic
+pydantic-settings
+transformers
+torch
+spacy
+sentencepiece
