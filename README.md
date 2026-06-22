@@ -89,7 +89,7 @@ ACCESS_TOKEN_EXPIRE_MINUTES=1440
 DATABASE_NAME=flashcard_app
 
 Start backend:
-uvicorn main:app --reload --port 8000
+uvicorn app.main:app --reload --port 8000
 
 API docs available at: http://localhost:8000/docs
 
